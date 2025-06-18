@@ -30,7 +30,7 @@
 
 
 
-本项目提供的开源镜像商品 [**Nifi数据集成平台**](https://marketplace.huaweicloud.com/hidden/contents/e2912d41-ea32-480f-b210-3b98197c76a4#productid=OFFI1128523591003291648)，已预先安装 DolphinScheduler 软件及其相关运行环境，并提供部署模板。快来参照使用指南，轻松开启“开箱即用”的高效体验吧。
+本项目提供的开源镜像商品 [**Nifi数据集成平台**](https://marketplace.huaweicloud.com/hidden/contents/e2912d41-ea32-480f-b210-3b98197c76a4#productid=OFFI1128523591003291648)，已预先安装 nifi 软件及其相关运行环境，并提供部署模板。快来参照使用指南，轻松开启“开箱即用”的高效体验吧。
 
 > **系统要求如下：**
 > - CPU: 2GHz 或更高
