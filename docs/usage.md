@@ -2,7 +2,7 @@
 
 # 一、商品链接
 
-[Nifi数据集成平台使用指南](https://marketplace.huaweicloud.com/hidden/contents/e2912d41-ea32-480f-b210-3b98197c76a4#productid=OFFI1128523591003291648)
+[Nifi数据集成平台使用指南](https://marketplace.huaweicloud.com/contents/e2912d41-ea32-480f-b210-3b98197c76a4#productid=OFFI1128523591003291648)
 
 # 二、商品说明
 
