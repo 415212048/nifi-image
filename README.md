@@ -37,7 +37,7 @@ This project provides an open-source image product, [**Nifi Data Integration Pla
 
 | Image Specification                                                                                                                                 | Feature Description                                           | Remarks |
 |--------------------------------------------------------------------------------------------------------------------------------------|------------------------------------------------| --- |
-| [Nifi-1.28.1-kunpeng-HCE](https://github.com/HuaweiCloudDeveloper/nifi-image/tree/Nifi-1.28.1-kunpeng) | Installed and deployed based on Kunpeng servers + Huawei Cloud EulerOS 2.0 64-bit |  |
+| [Nifi-1.28.1-kunpeng](https://github.com/HuaweiCloudDeveloper/nifi-image/tree/Nifi-1.28.1-kunpeng) | Installed and deployed based on Kunpeng servers + Huawei Cloud EulerOS 2.0 64-bit |  |
 
 ## Get Help
 - For more questions, you can contact us through [issues](https://github.com/HuaweiCloudDeveloper/nifi-image/issues) or the service support of the specified product in the Huawei Cloud Marketplace.
