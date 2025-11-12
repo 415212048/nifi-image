@@ -308,13 +308,13 @@ ECS部署：可直接在work/nar/extensions目录添加MRS扩展包，重启服�
 解决方案：
 1.	准备阶段：收集所需jar包和nar包
 2.	镜像构建：
-o	以源码编译的基础镜像为底座
-o	编写Dockerfile将NAR包复制到lib目录
-o	构建包含插件的新镜像
+- 以源码编译的基础镜像为底座
+- 编写Dockerfile将NAR包复制到lib目录
+- 构建包含插件的新镜像
 3.	部署运行：
-o	容器启动时自动加载lib目录下所有NAR包
-o	自动生成work/nar/extensions扩展包
-o	实现MRS连接插件的持久化使用
+- 容器启动时自动加载lib目录下所有NAR包
+- 自动生成work/nar/extensions扩展包
+- 实现MRS连接插件的持久化使用
 核心优势：通过构建时集成替代运行时手动添加，确保插件在容器重启后不丢失。
 ## 7.4	Nifi在CCE上部署问题
 ### 7.4.1	Headless Service问题
