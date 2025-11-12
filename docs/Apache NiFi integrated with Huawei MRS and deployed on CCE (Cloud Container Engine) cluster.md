@@ -1,5 +1,6 @@
 # 1.版本说明
 MRS	3.5.0-LTS
+
 NIFI	nifi:1.28.1
 # 2.场景介绍
 基于Apache NIFI开源容器镜像，与华为MapReduce服务(MRS)深度集成，对接MRS Kafka、HDFS、Hive三大核心组件：通过Kafka组件实现高吞吐量的实时数据采集与消息队列管理；利用HDFS组件构建可靠的海量数据存储层；基于Hive组件完成结构化数据的分析与查询。
