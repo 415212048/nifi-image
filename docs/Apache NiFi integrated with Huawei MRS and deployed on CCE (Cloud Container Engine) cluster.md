@@ -285,8 +285,8 @@ SelectHive3QL配置如下：
 
 # 7	问题点
 ## 7.1	环境变量和nifi.properties映射关系
-•	容器化NiFi采用环境变量映射机制，通过CCE平台注入环境变量来动态修改nifi.properties配置
-•	核心映射逻辑实现在镜像的start.sh启动脚本中
+- 容器化NiFi采用环境变量映射机制，通过CCE平台注入环境变量来动态修改nifi.properties配置
+- 核心映射逻辑实现在镜像的start.sh启动脚本中
 
 ## 7.2	nifi配置文件不能通过confMap挂载替换
 现象：通过ConfigMap挂载nifi.properties到conf目录时，容器启动失败，提示文件只读错误
